@@ -111,7 +111,8 @@ body {
    min-height: 100vh;
    display: flex;
    align-items: center;
-   /* background-image: url('../img/i.jpg'); */
+   /* background-image: url('../img/avatar.png'); */
+   background-image: url('../img/bg-explosion.png');
    background-repeat: no-repeat;
    width: 200;
    background-size: cover;
